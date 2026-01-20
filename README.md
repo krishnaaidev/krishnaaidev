@@ -6,7 +6,7 @@
 </p>
 
 <h4 align="center">
-Software Engineer | Building responsive websites & exploring new tools | Open to Collaboration
+AI Software Engineer | Building responsive websites & exploring new tools | Open to Collaboration
 </h4>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -26,21 +26,21 @@ Hi, I'm <strong>Suman Krishna</strong>, a passionate <strong>Software Engineer</
 
 <!-- BADGES UNDER ABOUT ME -->
 <div>
- <a href="https://github.com/pixel2predict" target="_blank" rel="noopener noreferrer">
-  <img src="https://api.visitorbadge.io/api/visitors?path=pixel2predict&label=Profile%20Views&countColor=%238A2BE2" style="vertical-align: middle;" />
+ <a href="https://github.com/krishnaaidev" target="_blank" rel="noopener noreferrer">
+  <img src="https://api.visitorbadge.io/api/visitors?path=krishnaaidev&label=Profile%20Views&countColor=%238A2BE2" style="vertical-align: middle;" />
 </a>
 
-  <a href="https://github.com/pixel2predict">
-    <img alt="Followers" src="https://img.shields.io/github/followers/pixel2predict?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
+  <a href="https://github.com/krishnaaidev">
+    <img alt="Followers" src="https://img.shields.io/github/followers/krishnaaidev?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
   </a>
-  <a href="https://github.com/pixel2predict?tab=repositories">
-    <img alt="Repos" src="https://badges.strrl.dev/repos/pixel2predict?color=%238A2BE2&style=for-the-badge&label=Repos">
+  <a href="https://github.com/krishnaaidev?tab=repositories">
+    <img alt="Repos" src="https://badges.strrl.dev/repos/krishnaaidev?color=%238A2BE2&style=for-the-badge&label=Repos">
   </a>
-  <a href="https://github.com/pixel2predict">
-    <img alt="Stars" src="https://img.shields.io/github/stars/pixel2predict?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
+  <a href="https://github.com/krishnaaidev">
+    <img alt="Stars" src="https://img.shields.io/github/stars/krishnaaidev?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
   </a>
-  <a href="https://github.com/pixel2predict">
-    <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/pixel2predict?color=%238A2BE2&style=for-the-badge&label=Commits+Today">
+  <a href="https://github.com/krishnaaidev">
+    <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/krishnaaidev?color=%238A2BE2&style=for-the-badge&label=Commits+Today">
   </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -57,7 +57,7 @@ Hi, I'm <strong>Suman Krishna</strong>, a passionate <strong>Software Engineer</
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://sumankrishna.netlify.app">
+  <a href="https://sumankrishnaportfolio.netlify.app">
     <img src="https://img.shields.io/badge/portfolio-100000.svg?&style=for-the-badge&logo=portfolio&logoColor=white"/>
   </a>
 
@@ -109,9 +109,9 @@ Hi, I'm <strong>Suman Krishna</strong>, a passionate <strong>Software Engineer</
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixel2predict&show_icons=true&theme=midnight-purple" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnaaidev&show_icons=true&theme=midnight-purple" height="160"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixel2predict&layout=compact&theme=midnight-purple" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaaidev&layout=compact&theme=midnight-purple" height="160"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -126,7 +126,7 @@ Hi, I'm <strong>Suman Krishna</strong>, a passionate <strong>Software Engineer</
 ## 📈 My GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pixel2predict&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnaaidev&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" />
 </p>
 
 <p align="center">
@@ -143,9 +143,9 @@ Hi, I'm <strong>Suman Krishna</strong>, a passionate <strong>Software Engineer</
 
 
 
-<a href="https://github.com/pixel2predict" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/krishnaaidev" target="_blank" rel="noopener noreferrer">
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pixel2predict&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&cache=1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=krishnaaidev&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&cache=1" />
   </div>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
