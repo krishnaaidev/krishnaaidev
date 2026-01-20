@@ -2,7 +2,7 @@
 
 <!-- CYBERPUNK NEON HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=45&duration=4000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=GREETINGS+PROGRAM;SUMAN+KRISHNA+//+SYSTEM+ENGINEER;CODER+%2F%2F+BUILDER+%2F%2F+CREATOR;WELCOME+TO+MY+DIGITAL+REALM" alt="Cyberpunk Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=45&duration=4000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=GREETINGS+PROGRAM;SUMAN+KRISHNA;SYSTEM+ENGINEER;CODER+%2F%2F+BUILDER+%2F%2F+CREATOR;WELCOME+TO+MY+DIGITAL+REALM" alt="Cyberpunk Typing" />
 </p>
 
 <h3 align="center">
