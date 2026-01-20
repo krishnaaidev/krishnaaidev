@@ -39,16 +39,18 @@
 <!-- TERMINAL IDENTITY -->
 <h2><img src="https://img.shields.io/badge/TERMINAL_IDENTITY-FF00FF?style=flat-square&logo=key&logoColor=white"> 🎮</h2>
 
-<pre align="center">
+<div align="center">
+<pre style="background-color: #0A0A0A; color: #00F7FF; padding: 20px; border-radius: 10px; border: 1px solid #00F7FF;">
 ┌─────────────────────────────────────────┐
-│  USER: <span style="color:#00F7FF">Suman_Krishna</span>                    │
-│  RANK: <span style="color:#FF00FF">Software_Engineer</span>                │
+│  USER: <span style="color:#FF00FF">Suman_Krishna</span>                    │
+│  RANK: <span style="color:#00F7FF">Software_Engineer</span>                │
 │  STATUS: <span style="color:#00FF9D">[ACTIVE]</span>                       │
-│  LOCATION: <span style="color:#00F7FF">Digital_Space</span>                │
-│  SPECIALTY: <span style="color:#FF00FF">Full_Stack_Architect</span>        │
+│  LOCATION: <span style="color:#FF00FF">Digital_Space</span>                │
+│  SPECIALTY: <span style="color:#00F7FF">Full_Stack_Architect</span>        │
 │  MISSION: <span style="color:#00FF9D">Build_Responsive_Realms</span>       │
 └─────────────────────────────────────────┘
 </pre>
+</div>
 
 <!-- GLITCH DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -74,34 +76,32 @@
 <!-- SYSTEM SPECS -->
 <h2><img src="https://img.shields.io/badge/SYSTEM_SPECS-00F7FF?style=flat-square&logo=cpu&logoColor=black"> ⚙️</h2>
 
-<h3>🔧 <span style="color:#FF00FF">CORE TECHNOLOGIES</span></h3>
-
-<h4><span style="color:#00F7FF">┌─</span> FRONTEND MATRIX <span style="color:#00F7FF">─┐</span></h4>
+<h3><span style="color:#00F7FF">┌─</span> <span style="color:#FF00FF">FRONTEND MATRIX</span> <span style="color:#00F7FF">─┐</span></h3>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=00F7FF&labelColor=0A0A0A"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=00FF9D&labelColor=0A0A0A"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0A0A0A"/>
 </div>
 
-<h4><span style="color:#FF00FF">┌─</span> UI/FRAMEWORKS <span style="color:#FF00FF">─┐</span></h4>
+<h3><span style="color:#FF00FF">┌─</span> <span style="color:#00F7FF">UI/FRAMEWORKS</span> <span style="color:#FF00FF">─┐</span></h3>
 <div>
   <img src="https://img.shields.io/badge/BOOTSTRAP-7C3AED?style=for-the-badge&logo=bootstrap&logoColor=FF00FF&labelColor=0A0A0A"/>
   <img src="https://img.shields.io/badge/TAILWIND-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=00F7FF&labelColor=0A0A0A"/>
 </div>
 
-<h4><span style="color:#00FF9D">┌─</span> MOBILE REALMS <span style="color:#00FF9D">─┐</span></h4>
+<h3><span style="color:#00FF9D">┌─</span> <span style="color:#FF00FF">MOBILE REALMS</span> <span style="color:#00FF9D">─┐</span></h3>
 <div>
   <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=00FF9D&labelColor=0A0A0A"/>
   <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FF00FF&labelColor=0A0A0A"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=00F7FF&labelColor=0A0A0A"/>
 </div>
 
-<h4><span style="color:#00F7FF">┌─</span> DATA STORAGE <span style="color:#00F7FF">─┐</span></h4>
+<h3><span style="color:#00F7FF">┌─</span> <span style="color:#00FF9D">DATA STORAGE</span> <span style="color:#00F7FF">─┐</span></h3>
 <div>
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=00FF9D&labelColor=0A0A0A"/>
 </div>
 
-<h4><span style="color:#FF00FF">┌─</span> DEVELOPMENT TOOLS <span style="color:#FF00FF">─┐</span></h4>
+<h3><span style="color:#FF00FF">┌─</span> <span style="color:#00F7FF">DEVELOPMENT TOOLS</span> <span style="color:#FF00FF">─┐</span></h3>
 <div>
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=FF00FF&labelColor=0A0A0A"/>
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0A0A0A"/>
@@ -139,7 +139,7 @@
 <!-- CURRENT MISSIONS -->
 <h2><img src="https://img.shields.io/badge/CURRENT_MISSIONS-00F7FF?style=flat-square&logo=target&logoColor=black"> 🎯</h2>
 
-<pre>
+<pre style="background-color: #0A0A0A; color: #FF00FF; padding: 20px; border-radius: 10px; border: 1px solid #00F7FF;">
 <span style="color:#FF00FF">active_operations:</span>
   <span style="color:#00F7FF">- mission:</span> "Build responsive web realms"
     <span style="color:#00FF9D">status:</span> "IN PROGRESS"
